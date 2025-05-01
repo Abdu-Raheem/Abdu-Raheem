@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Raheem</h1>
-<h3 align="center">🚀 Python Backend Developer | Django & API Specialist | Cloud DevOps Enthusiast</h3>
+<h3 align="center">🚀 Python Backend Developer | Django | Flask | Cloud DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdu-Raheem&label=Profile%20views&color=0e75b6&style=flat" alt="Abdu-Raheem" />
@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Backend Developer at **Imiot Technolab LLP**
-- 🛠️ Skilled in **Django, REST APIs, FastAPI, GraphQL, Docker, Celery, Firebase**
+- 🛠️ Skilled in **Django, REST APIs, Flask, FastAPI, GraphQL, Docker, Celery, Firebase**
 - 🌍 Deployed full-stack projects on **AWS, Azure, and custom Ubuntu servers**
 - 🧠 Strong in **cloud integration**, **deployment pipelines**, and **API security**
 - 🧑‍🏫 Mentored junior devs & collaborated across teams to ensure scalable backend solutions
@@ -24,6 +24,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)

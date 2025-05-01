@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdu Raheem</h1>
-<h3 align="center">🚀 Full-Stack Developer | Backend Specialist | SaaS Builder</h3>
+<h1 align="center">Hi 👋, I'm Abdul Raheem</h1>
+<h3 align="center">🚀 Python Backend Developer | Django & API Specialist | Cloud DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abdu-Raheem&label=Profile%20views&color=0e75b6&style=flat" alt="Abdu-Raheem" />
@@ -9,12 +9,14 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **Catering Business Management System**
-- 🧠 Always learning: **AI integrations, serverless, and scalable architecture**
-- 💬 Ask me about: **Django, REST APIs, automation, and Flutter frontend**
-- 🧩 Exploring: **Custom business tools & AI chat-based workflows**
-- 📫 Reach me at: [websitepatner@gmail.com](mailto:websitepatner@gmail.com)
+- 🔭 Backend Developer at **Imiot Technolab LLP**
+- 🛠️ Skilled in **Django, REST APIs, FastAPI, GraphQL, Docker, Celery, Firebase**
+- 🌍 Deployed full-stack projects on **AWS, Azure, and custom Ubuntu servers**
+- 🧠 Strong in **cloud integration**, **deployment pipelines**, and **API security**
+- 🧑‍🏫 Mentored junior devs & collaborated across teams to ensure scalable backend solutions
+- 📫 Email: [rahee9156@gmail.com](mailto:rahee9156@gmail.com)
 - 📱 WhatsApp: [+91 8137991559](https://wa.me/918137991559)
+- 🌐 [Portfolio](https://abdu-raheem.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/abdul-raheem-379694238)
 
 ---
 
@@ -22,30 +24,45 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🧑‍🍳 Catering Management System  
-Full-featured event and salary management tool with 4 user roles.  
-→ Role-based login, attendance, salary, event scheduling.  
-→ Built using Django + PostgreSQL + Bootstrap.
+#### 🔗 [ShareInfo for Aspirants](https://web.shareinfo.io/)
+Campus-focused LinkedIn-style placement portal  
+→ **Django + PostgreSQL + Celery + Azure**  
+→ Real-time notifications, scalable background tasks
 
-#### 📄 DOCX Form Generator  
-Auto-fill dynamic `$name$` and `$age$` fields in `.docx` templates from user input.  
-→ Desktop GUI (Tkinter), preserves formatting.  
-→ Use case: Government or office forms automation.
+#### 🧳 Travel Experience-Sharing App  
+Instagram-style mobile app with image/video stories and tour packages  
+→ **Django REST + Cloud media storage**  
+→ Optimized APIs for performance and media handling
 
-#### 🛍️ WhatsApp E-commerce  
-Cart-based product page that sends orders via WhatsApp, no login required.  
-→ Pure HTML + JS frontend with WhatsApp backend integration.
+#### 🧖 Spa Booking System  
+Mobile app for spa service scheduling and booking  
+→ **Django REST Framework + User & Service Management**
+
+#### 🩸 Blood Donation Tracker  
+Mobile platform to manage student donor data  
+→ **DRF backend + AWS Ubuntu hosting + Custom domain**
+
+#### 🏥 Hospital Management Prototype  
+Secure API-based app with group-level access controls  
+→ **Built with DRF**, showing advanced permission architecture
+
+#### 🎉 Central Event Management System (CEMS)  
+Campus-wide event coordination mobile platform  
+→ **Django + Firebase**, multi-role support, REST APIs
 
 ---
 
@@ -59,12 +76,12 @@ Cart-based product page that sends orders via WhatsApp, no login required.
 
 ---
 
-### 🌐 Let's Connect
+### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-raheem-379694238)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/918137991559)
-[![Email](https://img.shields.io/badge/Email-websitepatner@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:websitepatner@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rahee9156@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rahee9156@gmail.com)
 
 ---
 
-> 🚀 *“Build fast, ship often, and solve real problems.”*
+> 🚀 *"I build APIs that power real-world systems — fast, scalable, and reliable."*
